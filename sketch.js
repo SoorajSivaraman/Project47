@@ -484,6 +484,8 @@ function endStateActions()
     velocityIncreaseTime = 0;
     wealthCountIncTime = 0;
     wealthCountBonus = false;
+    loopedThrillerMusic = false;
+    loopedThrillerMusic2 = false;
     setup();
     gameState = 0;
   }
